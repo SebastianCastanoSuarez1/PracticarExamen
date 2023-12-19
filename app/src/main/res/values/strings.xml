@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticarExamen</string>
+    <string name="Iva">Iva: </string>
+    <string name="Salario">Salario: </string>
+    <string name="hipoteca">Hipoteca: </string>
+    <string name="bonoloto">Bonoloto</string>
+    <string name="pobreza">Te has vuelto pobre</string>
+    <string name="loteria">Te has vuelto rico</string>
+    <string name="Rendirse">Quieres rendirte?</string>
+    <string name="DerrochadorNext">siguiente</string>
+    <string name="DerrochadorBack">anterior</string>
+</resources>
